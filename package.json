@@ -1,0 +1,26 @@
+{
+  "name": "santa-pinball",
+  "version": "1.0.0",
+  "description": "Santa Pinball browser game for a gamejam",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marek-ciazynski/santa-pinball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marek-ciazynski/santa-pinball/issues"
+  },
+  "homepage": "https://github.com/marek-ciazynski/santa-pinball#readme",
+  "dependencies": {
+    "matter-js": "^0.18.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  }
+}
